@@ -1,6 +1,7 @@
 # Allen Coral Atlas
 A resource and citation for code, standards and publications arising from the Allen Coral Atlas
 
+
 ## How to cite?
 The Allen Coral Atlas is a result of efforts form many individuals and organisations - please use the following citation as a general reference:  
 > Allen Coral Atlas (2020). Imagery, maps and monitoring of the worlds tropical coral reefs. Zendodo. [DOI: doi.org/10.XXXX/zenodo.XXXX](https://doi.org/10.XXXX/zenodo.XXXX)  
@@ -20,40 +21,29 @@ The Allen Coral Atlas brings together partners from Planet, University of Queens
 Here are a list of scientific publications arising from the Allen Coral Atlas that cover a range of technical and applied research that have made the Atlas possible, and have applied the results.  *or something like this*
 
 + Paper 1  
-
-   Brief paper description  
-
+   - Brief paper description  
+  
 + Lyons et al (2020) Mapping the world's coral reefs using a global multiscale earth observation framework. *Remote Sensing in Ecology and Evolution*. [DOI:10.1002/rse2.157](https://doi.org/10.1002/rse2.157)  
-
-   This paper covers the underlying mapping framework that is enabling the geomorphic and benthic mapping component of the Allen Coral Atlas, including data I/O, Google Earth Engine  
-
+   - This paper covers the underlying mapping framework that is enabling the geomorphic and benthic mapping component of the Allen Coral Atlas, including data I/O, Google Earth Engine  
+  
 + Paper n  
-
-   Brief paper description  
+   - Brief paper description  
 
 
 ## Code
 *repo by repo - description of what it is/does*
 
 + Repo 1  
-
    [repo-name](https://github.com/CoralMapping/repo-name)  
-
-   Repo description  
-
+   - Repo description  
 
 + Earth Engine source code for mapping algorithms  
-
    [gee-mapping-source](https://github.com/CoralMapping/gee-mapping-source)  
-
-   This repo contains all the Google Earth Engine source code that generates the mapping outputs on the Coral Atlas, including maps and validation statistics  
-
+   - This repo contains all the Google Earth Engine source code that generates the mapping outputs on the Coral Atlas, including maps and validation statistics  
 
 + Repo n  
-
    [repo-name](https://github.com/CoralMapping/repo-name)  
-   
-   Repo description  
+   - Repo description  
 
 
 ## Standards
