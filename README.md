@@ -24,7 +24,7 @@ Here are a list of scientific publications arising from the Allen Coral Atlas th
    - Brief paper description  
   
 + Lyons et al (2020) Mapping the world's coral reefs using a global multiscale earth observation framework. *Remote Sensing in Ecology and Evolution*. [DOI:10.1002/rse2.157](https://doi.org/10.1002/rse2.157)  
-   - This paper covers the underlying mapping framework that is enabling the geomorphic and benthic mapping component of the Allen Coral Atlas, including data I/O, Google Earth Engine  
+   - This paper covers the underlying mapping framework that is enabling the geomorphic and benthic mapping component of the Allen Coral Atlas, including image and derived data sources, Google Earth Engine methods and validation approaches  
   
 + Paper n  
    - Brief paper description  
@@ -47,6 +47,9 @@ Here are a list of scientific publications arising from the Allen Coral Atlas th
 
 
 ## Standards
-*Link to the standards pages within this repo*
+This document hold the standards for the various data inputs and outputs, and products, from the Allen Coral Atlas  
 
+*Massive work in progress*  
+
+[Standards document](STANDARDS.md)
 
