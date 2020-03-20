@@ -20,7 +20,7 @@ The Allen Coral Atlas brings together partners from Planet, University of Queens
 ## Publications
 Here are a list of scientific publications arising from the Allen Coral Atlas that cover a range of technical and applied research that have made the Atlas possible, and have applied the results.  *or something like this*
 
-+ Paper 1  
++ Li et al (2019) Adaptive Bathymetry Estimation for Shallow Coastal Waters Using Planet Dove Satellites. *Remote Sensing of Environment* [DOI:10.1016/j.rse.2019.111302](https://doi.org/10.1016/j.rse.2019.111302)
    - Brief paper description  
   
 + Lyons et al (2020) Mapping the world's coral reefs using a global multiscale earth observation framework. *Remote Sensing in Ecology and Evolution*. [DOI:10.1002/rse2.157](https://doi.org/10.1002/rse2.157)  
