@@ -1,5 +1,7 @@
-# file naming, bands and no-data values:
+## Allen Coral Atlas data standards ##
 `TODO: workshop what this standard document should actually be for`
+
+### file naming, bands and no-data values: ###
 
 - surface reflectance products: 
     - always *.tif 

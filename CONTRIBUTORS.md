@@ -4,12 +4,12 @@ Project partners providing financial, service and personnel include: Planet Inc.
 Significant support has also been provided by Google Inc., Great Barrier Reef Foundation, Trimble (Ecognition). 
 _Additional funders:  Lyda Hill Philanthropies, Paul M. Angell Foundation_
 
-_to be updated_:  
-Significant contributors to establishing and running the project include: Vulcan Inc [James Deutsch, Lauren Kickham, Paulina Gerstner, Charlie Whiton, Kirk Larsen, Sarah Frias-Torres, Kyle Rice, Janet Greenlee] 
+_to be updated_ (todo:  vet lists with orgs):  
+Significant contributors to establishing and running the project include: Vulcan Inc [James Deutsch, Lauren Kickham, Paulina Gerstner, Charlie Whiton, Kirk Larsen, Sarah Frias-Torres, Matt Skone, Eldan Golderberg, Andy Jacobs, Kyle Rice, Brent HArris, Janet Greenlee, Chuck Cooper] 
 Planet Inc [Andrew Zolli, Trevor McDonald, Joe Mascaro, Joe Kington] 
 University of Queensland [Chris Roelfsema, Stuart Phinn, Emma Kennedy, Dan Harris, Mitchell Lyons, Nicholas Murray, Eva Kovacs, Rodney Borrego, Katherine Markey, Meredith Roe, Paul Tudman] 
 Arizona State University [Greg Asner, Dave Knapp, Jiwei Li, Nick Fabina, Heather D'Angelo]
-National Geographic [Helen Fox, Brianna Bambic, Brian Free]
+National Geographic [Helen Fox, Brianna Bambic, Brian Free, Zoë Lieb]
 Great Barrier Reef Foundation [Petra Lundgren]
 _TNC?_
 _WWF?_
