@@ -27,15 +27,8 @@ Here is a list of scientific publications arising from the Allen Coral Atlas tha
 
 ## Code
 
-+ Earth Engine source code for mapping algorithms  
++ Earth Engine source code for mapping algorithms:
    [gee-mapping-source](https://github.com/CoralMapping/gee-mapping-source)  
    - This repo contains all the Google Earth Engine source code that generates the mapping outputs on the Coral Atlas, including maps and validation statistics  
 
 + Other repositories will be made public as the project progresses.   
-
-
-## Standards
-This document hold the standards for the various data inputs and outputs, and products, from the Allen Coral Atlas  
-
-[Standards document](STANDARDS.md)
-
