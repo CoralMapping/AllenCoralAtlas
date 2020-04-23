@@ -1,5 +1,7 @@
+https://www.allencoralatlas.org/partners/
+
 This project was initiated and funded primarily through Paul G. Allen Philanthropies and Vulcan Inc. We acknowledge the late Paul Allen and Ruth Gates for their fundamental vision and drive to enable us to work together on this critical problem. 
-Addtional funding has been provided by:
+Addtional funding is provided by:
     Lyda Hill Philanthropies 
     Paul M. Angell Foundation
     
