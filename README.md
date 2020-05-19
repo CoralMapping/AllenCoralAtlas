@@ -1,6 +1,7 @@
 # Allen Coral Atlas
 A resource and citation for code, standards and publications arising from the Allen Coral Atlas
 
+[Allen Coral Atlas website](https://allencoralatlas.org/)  
 
 ## How to cite?
 The Allen Coral Atlas is a result of efforts form many individuals and organisations - please use the following citation as a general reference:  
@@ -12,7 +13,6 @@ The citation encompasses this list of [contributors](CONTRIBUTORS.md).
 
 The Allen Coral Atlas brings together partners from Planet, University of Queensland, Arizona State University's Center for Global Discovery and Conservation Science (GDCS), the National Geographic Society and Vulcan Inc. to take high resolution satellite imagery and advanced analytics to map and monitor the world’s coral reefs in unprecedented detail.  
 
-[Allen Coral Atlas website](https://allencoralatlas.org/)  
 
 
 ## Publications
