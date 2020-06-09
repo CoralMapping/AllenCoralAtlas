@@ -12,7 +12,7 @@ Significant support has also been provided by Google Inc., Great Barrier Reef Fo
 Significant contributors to establishing, developing and running the project include: 
 + Vulcan Inc [James Deutsch, Lauren Kickham, Paulina Gerstner, Charlie Whiton, Kirk Larsen, Sarah Frias-Torres, Janet Greenlee, Chuck Cooper, Matt Skone, Eldan Goldenberg, Andy Jacobs, Kyle Rice, Brent Harris, Karen Goodfellow, Alan Shield, Daniel Chang, Kevin Brockway, Tommy Greene] 
 + Planet Inc [Andrew Zolli, Trevor McDonald, Joe Mascaro, Joe Kington, Paris Good, Mariana Curdoglo] 
-+ University of Queensland [Chris Roelfsema, Stuart Phinn, Emma Kennedy, Dan Harris, Mitchell Lyons, Nicholas Murray, Eva Kovacs, Rodney Borrego, Katherine Markey, Meredith Roe, Paul Tudman] 
++ University of Queensland [Chris Roelfsema, Stuart Phinn, Emma Kennedy, Dan Harris, Mitchell Lyons, Nicholas Murray, Eva Kovacs, Rodney Borrego, Katherine Markey, Meredith Roe, Paul Tudman, Jeremy Wolf, Alex Ordonez, Dimosthenis Traganos, Chantal Say, Doddy Yowono] 
 + Arizona State University [Greg Asner, Dave Knapp, Jiwei Li, Nick Fabina, Yaping Xu, Heather D'Angelo]
 + National Geographic [Helen Fox, Brianna Bambic, Brian Free, Zoë Lieb]
 + Great Barrier Reef Foundation [Petra Lundgren]
