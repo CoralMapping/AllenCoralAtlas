@@ -42,20 +42,24 @@ TODO: workshop what this standard document should actually be for
     - Specific links to processing code repos:
         - [gee-mapping-source]
 #### proposed & for review ####
-- Bands in export stack (pre-Atlas ingestion):  
-    `0:` composite depth [centimeters]  
-    `1:` reef/no reef [binary]  
-    `2:` geomorphic [classification]  
-    `3:` benthic [classification]  
-    `4:` confidence [relative percentage - see below]  
-- No data flags (in geo/benthic bands):
-    - Imagery available, but water depth or quality prevented classifiction `[0]`
-    - Imagery available, but area manually masked out (no reef present, turbidity, inland water, river mouths) `[-1]`
-    - Missing image or depth data `[-2]`
-- Confidence layer, combines:
-    - random forest classification probability
-    - scaled by reference sample expert confidence
-    - intersected with image QAQC data (aretfects etc.)
+-  Earth Engine export stack (pre-Atlas ingestion):  
+    - Raster bands:  
+        `0:` composite depth [centimeters]  
+        `1:` reef/no reef [binary]  
+        `2:` geomorphic [classification]  
+        `3:` benthic [classification]  
+        `4:` confidence [relative percentage - see below]  
+    - No data flags (in geo/benthic bands):  
+        - Imagery available, but water depth or quality prevented classifiction `[0]`  
+        - Imagery available, but area manually masked out (no reef present, turbidity, inland water, river mouths) `[-1]`  
+        - Missing image or depth data `[-2]`  
+    - Confidence layer, combines:  
+        - random forest classification probability;  
+        - scaled by reference sample expert confidence;  
+        - intersected with image QAQC data (aretfects etc.)  
+- Percentage agreement accuracy statistics:
+    - Where should these go and how to deliver?
+    - Essentially a few % numbers and a couple tables - could be a .csv or a .pdf doc?
 
 ### Monitoring products: ###
 - TODO
