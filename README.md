@@ -5,7 +5,7 @@ A resource and citation for code, standards and publications arising from the Al
 
 ## How to cite?
 The Allen Coral Atlas is a result of efforts form many individuals and organisations - please use the following citation as a general reference:  
-> Allen Coral Atlas (2020). Imagery, maps and monitoring of the worlds tropical coral reefs. Zendodo. [DOI: doi.org/10.5281/zenodo.3833242](https://doi.org/10.5281/zenodo.3833242)  
+> Allen Coral Atlas (2020). Imagery, maps and monitoring of the world's tropical coral reefs. Zenodo. [DOI: doi.org/10.5281/zenodo.3833242](https://doi.org/10.5281/zenodo.3833242)  
 
 The citation encompasses this list of [contributors](CONTRIBUTORS.md).
 
