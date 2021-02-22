@@ -15,7 +15,7 @@ Significant contributors to establishing, developing and running the project inc
 + University of Queensland [Chris Roelfsema, Stuart Phinn, Emma Kennedy, Dan Harris, Mitchell Lyons, Nicholas Murray, Eva Kovacs, Rodney Borrego, Katherine Markey, Meredith Roe, Paul Tudman, Jeremy Wolf, Alex Ordonez, Dimosthenis Traganos, Chantal Say, Doddy Yowono] 
 + Arizona State University [Greg Asner, Dave Knapp, Jiwei Li, Nick Fabina, Yaping Xu, Heather D'Angelo]
 + National Geographic [Helen Fox, Brianna Bambic, Brian Free, Zoë Lieb]
-+ Great Barrier Reef Foundation [Petra Lundgren]
++ Great Barrier Reef Foundation [Petra Lundgren, Sarah Castine]
 
 We gratefully acknowledge the [many organizations, institutions, and individuals](https://www.allencoralatlas.org/attribution/) who have collected and/or provided data products to help support the development of the Allen Coral Atlas.
 
